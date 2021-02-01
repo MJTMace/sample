@@ -1,3 +1,3 @@
 # sample
 
-The Jupyter notebook containing some code samples is executable on Binder: 
+The Jupyter notebook containing some code samples is executable on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MJTMace/sample/HEAD?filepath=sample.ipynb) 
